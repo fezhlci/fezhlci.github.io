@@ -1,0 +1,93 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3768469 */
+  /* Color fonts */
+  src: 
+       url('iconfont.woff2?t=1668666549465') format('woff2'),
+       url('iconfont.woff?t=1668666549465') format('woff'),
+       url('iconfont.ttf?t=1668666549465') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-yule:before {
+  content: "\e699";
+}
+
+.icon-attachment:before {
+  content: "\e7e1";
+}
+
+.icon-windows:before {
+  content: "\e659";
+}
+
+.icon-android:before {
+  content: "\e664";
+}
+
+.icon-linux:before {
+  content: "\ec0e";
+}
+
+.icon-timeAxis:before {
+  content: "\e645";
+}
+
+.icon-24gf-tags:before {
+  content: "\e885";
+}
+
+.icon-liuyanfill:before {
+  content: "\e743";
+}
+
+.icon-xiazai:before {
+  content: "\e603";
+}
+
+.icon-guanli:before {
+  content: "\e602";
+}
+
+.icon-wenjianjia:before {
+  content: "\e600";
+}
+
+.icon-weixin:before {
+  content: "\e601";
+}
+
+.icon-shouyefill:before {
+  content: "\e750";
+}
+
+.icon-shouye:before {
+  content: "\e64f";
+}
+
+.icon-alipay:before {
+  content: "\e618";
+}
+
+.icon-QQ:before {
+  content: "\e882";
+}
+
+.icon-wj-wjj:before {
+  content: "\e7b8";
+}
+
+.icon-16:before {
+  content: "\e625";
+}
+
+.icon-gitee-fill-round:before {
+  content: "\e686";
+}
+
